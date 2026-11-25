@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# SQLite local
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# Artefactos MAUI / Apple
+*.app/
+*.ipa
+*.apk
+*.aab
